@@ -6,8 +6,12 @@
 ## SUMMARY    
 Results-driven leader with a +49% revenue increase and 99%+ customer satisfaction. Proficient in optimizing operations and fostering team growth. Poised to elevate Calm's mission with proven success.    
 
+---
+
 ## SKILLS    
   Adaptability, Collaboration, Communication Excellence, Contract Negotiation, Customer Success Management, Data Analysis, Project Management, Relationship Building, Salesforce CPQ, Problem-Solving    
+    
+---    
   
 ## EXPERIENCE    
 ### Sales Operations Representative — BlueGrace Logistics
@@ -62,5 +66,7 @@ Results-driven leader with a +49% revenue increase and 99%+ customer satisfactio
   BBA Business Administration — Service Operations Management
   Dean's List. Faculty Scholar.    
     
+---    
+     
 ## CERTIFICATIONS           
 Customer Success Management, Effective Communication in the Workplace, Negotiation, Leadership, and Influence, Project Management for Professionals, Data Analysis and Visualization with Python    
